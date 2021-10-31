@@ -1,0 +1,9 @@
+input {
+	border: 1px solid green;
+}
+label {
+	padding-right: 20px;
+	width: 100px;
+	display: inline-block;
+	text-align: right;
+}
